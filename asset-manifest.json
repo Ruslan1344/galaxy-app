@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/galaxy-app/static/css/main.a3a7ec98.css",
+    "main.js": "/galaxy-app/static/js/main.c49171c9.js",
+    "static/media/video.mp4": "/galaxy-app/static/media/video.14cc2c3d938d5db0a3b8.mp4",
+    "static/media/pod.jpg": "/galaxy-app/static/media/pod.50e31449b45abcaa4410.jpg",
+    "static/media/moon.jpg": "/galaxy-app/static/media/moon.1cf214d6750ba4700e33.jpg",
+    "static/media/spaceVideo.jpg": "/galaxy-app/static/media/spaceVideo.2183e701601ebf91b856.jpg",
+    "index.html": "/galaxy-app/index.html",
+    "main.a3a7ec98.css.map": "/galaxy-app/static/css/main.a3a7ec98.css.map",
+    "main.c49171c9.js.map": "/galaxy-app/static/js/main.c49171c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3a7ec98.css",
+    "static/js/main.c49171c9.js"
+  ]
+}
